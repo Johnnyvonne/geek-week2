@@ -14,5 +14,7 @@ com.jikeshijian.App
 hadoop jar mapreduce-1.0-SNAPSHOT.jar com.jikeshijian.App /user/student1/zanglei/input /user/student1/zanglei/output/traffic
 
 # 执行示例
-![执行过程](https://github.com/Johnnyvonne/geek-week2/blob/main/1.png)
-![执行结果](https://github.com/Johnnyvonne/geek-week2/blob/main/2.png)
+## 执行过程
+1.png
+## 执行结果
+2.png
